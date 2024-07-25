@@ -2,9 +2,9 @@
 --- MOD_NAME: JokerDisplay Mod Support
 --- MOD_ID: JDModSupport
 --- MOD_AUTHOR: [nh6574]
---- MOD_DESCRIPTION: Adds JokerDisplay Support for the following mods: | Betmma Jokers | Inscrybed Jokers | Jimbo's New Pack | Joker Evolution | Pampa Joker Pack |
+--- MOD_DESCRIPTION: Adds JokerDisplay Support for the following mods: | Betmma Jokers | Inscrybed Jokers | Jimbo's New Pack | Pampa Joker Pack |
 --- PRIORITY: 100000
---- VERSION: 1.0.0
+--- VERSION: 1.0.1
 
 if SMODS.Atlas then
     SMODS.Atlas({
