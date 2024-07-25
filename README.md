@@ -14,7 +14,6 @@ It's preferable that mod devs add their own support in their mods, this repo is 
 
 | Mods supported |
 |---|
-| [Betmma Jokers](https://github.com/betmma/my_balatro_mods) |
 | [Inscrybed Jokers](https://github.com/LunaAstraCassiopeia/LunasBalatroMods) |
 | [Jimbo's New Pack](https://github.com/art-muncher/Jimbo-s-Pack) |
 | [Pampa Joker Pack](https://batabata3.github.io/balatro-pampa-joker-pack/) |
