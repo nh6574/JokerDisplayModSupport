@@ -17,7 +17,6 @@ It's preferable that mod devs add their own support in their mods, this repo is 
 | [Betmma Jokers](https://github.com/betmma/my_balatro_mods) |
 | [Inscrybed Jokers](https://github.com/LunaAstraCassiopeia/LunasBalatroMods) |
 | [Jimbo's New Pack](https://github.com/art-muncher/Jimbo-s-Pack) |
-| [Joker Evolution](https://github.com/SDM0/Joker-Evolution) |
 | [Pampa Joker Pack](https://batabata3.github.io/balatro-pampa-joker-pack/) |
 
 If you see your mod here and want it removed please let me know!
