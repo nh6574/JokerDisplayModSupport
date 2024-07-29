@@ -15,7 +15,9 @@ It's preferable that mod devs add their own support in their mods, this repo is 
 | Mods supported |
 |---|
 | [Inscrybed Jokers](https://github.com/LunaAstraCassiopeia/LunasBalatroMods) |
+| [Jank Jonklers](https://github.com/spikeof2010/JankJonklers) |
 | [Jimbo's New Pack](https://github.com/art-muncher/Jimbo-s-Pack) |
+| [OrtalabDEMO](https://github.com/GauntletGames-2086/Ortalab-DEMO) |
 | [Pampa Joker Pack](https://batabata3.github.io/balatro-pampa-joker-pack/) |
 
 If you see your mod here and want it removed please let me know!
