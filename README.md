@@ -7,15 +7,14 @@ It's preferable that mod devs add their own support in their mods, this repo is 
 
 1. Install [Steamodded](https://github.com/Steamopollys/Steamodded) (version >1.0.0)
 2. Install [JokerDisplay](https://github.com/nh6574/JokerDisplay/).
-3. Download the [latest release](https://github.com/nh6574/JokerDisplayModSupport/releases)
-4. Extract JokerDisplayModSupport.zip into a folder in your Balatro mods folder (%appdata%\Balatro\Mods)
+3. Clone/[Download](https://github.com/nh6574/JokerDisplayModSupport/archive/refs/heads/main.zip) the repository.
+4. Place the files in a folder in your Balatro mods folder (%appdata%\Balatro\Mods)
 
 ## Mod Support
 
 | Mods supported |
 |---|
 | [Inscrybed Jokers](https://github.com/LunaAstraCassiopeia/LunasBalatroMods) |
-| [Jank Jonklers](https://github.com/spikeof2010/JankJonklers) |
 | [Jimbo's New Pack](https://github.com/art-muncher/Jimbo-s-Pack) |
 | [Pampa Joker Pack](https://batabata3.github.io/balatro-pampa-joker-pack/) |
 
