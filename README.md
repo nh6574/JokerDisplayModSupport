@@ -16,9 +16,11 @@ It's preferable that mod devs add their own support in their mods, this repo is 
 |---|
 | [Inscrybed Jokers](https://github.com/LunaAstraCassiopeia/LunasBalatroMods) |
 | [Jimbo's New Pack](https://github.com/art-muncher/Jimbo-s-Pack) |
-| [Pampa Joker Pack](https://batabata3.github.io/balatro-pampa-joker-pack/) |
 
 If you see your mod here and want it removed please let me know!
+
+[Pampa Joker Pack](https://batabata3.github.io/balatro-pampa-joker-pack/) has been removed, please use [this 1.0 port](https://github.com/lshtech/balatro-pampa-joker-pack) instead
+
 
 ## Contributing
 
