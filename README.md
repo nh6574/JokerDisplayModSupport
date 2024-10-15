@@ -1,5 +1,7 @@
 # Mod Support for JokerDisplay
 
+DISCONTINUED
+
 This adds extra mod support for the Balatro mod [JokerDisplay](https://github.com/nh6574/JokerDisplay/).
 It's preferable that mod devs add their own support in their mods, this repo is meant to be a temporary home for support added by me or a permanent one for mods that don't get any updates.
 
